@@ -22,6 +22,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -40,14 +41,19 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios'
   ],
+  bootstrapVue: {
+    icons: true
+  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    babel: {
+      compact: true,
+     },
   },
-  target: 'static',
-  extend(config, ctx) {},
-  babel: { compact: true }
+  target: 'server',
+  
 }

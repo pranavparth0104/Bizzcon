@@ -2,7 +2,8 @@
     <div>
   
   <div class="black">
-      <Nav />  
+      <Navbar />  
+      <TheSideNav />
   </div>
   <Nuxt />
   <div class="footer">

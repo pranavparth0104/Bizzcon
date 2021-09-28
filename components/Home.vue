@@ -43,7 +43,7 @@
         <h2>Industry Practices</h2>
         <p>In order to provide clients with specialised recruiting solutions, Bizzcon has developed expertise in the following industry segments:</p>
         <div class="slider">
-          <Slider />
+          <img class="indu" style="width:20%" :src="require(`@/assets/service/industry.png`)" alt="">
         </div>
         <br>
         <br>
@@ -52,7 +52,7 @@
         
       </div>
     </div>
-    <div class="testimonials">
+    <!-- <div class="testimonials">
       <h2>Client Testimonials</h2>
       <br><br>
       <div class="slider">
@@ -60,7 +60,7 @@
         </div>
         <br>
         <br>
-    </div>
+    </div> -->
     <div class="contact">
       <h2>Contact Us</h2>
       <br><br>
@@ -142,7 +142,9 @@ export default {
 
   background: black;
 }
-
+.indu{
+  width: 20px;
+}
 .image button{
   border: none;
   padding: 10px;
@@ -220,7 +222,7 @@ export default {
    text-align: center;
   padding: 10px;
 
-  background: rgb(252,140,20);
+  background: rgba(255,181,17,255);
   margin-bottom: 0px;
 }
 

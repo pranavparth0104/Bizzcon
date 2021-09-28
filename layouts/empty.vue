@@ -1,6 +1,7 @@
 <template>
 <div>
-    <Nav />
+    <Navbar />  
+    <TheSideNav />
   <Nuxt />
 </div>
   
@@ -12,6 +13,6 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
