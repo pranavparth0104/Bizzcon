@@ -187,6 +187,9 @@ export default {
         display: flex;
         flex-direction: column;
     }
+    .data{
+      width: 100%;
+    }
 }
 
 </style>

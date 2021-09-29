@@ -66,7 +66,6 @@ export default {
   width: 100%;
 }
 .add h4{
-  font-style: oblique;
 }
 .contact h2{
   font-size: 40px;

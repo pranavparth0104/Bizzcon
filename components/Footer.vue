@@ -11,7 +11,7 @@
         <hr class="w-100 clearfix d-md-none" />
         <mdb-col md="2" lg="2" xl="2" class="mx-auto mt-3">
           <h6 style="color: #ffff" class="text-uppercase mb-4 font-weight-bold">BIZZCON</h6>
-          <!-- <a href="/about_us/whybizzcon"><p><a  style="color: #ffff" href="/about_us/whybizzcon">ABOUT US</a></p></a> -->
+          <a href="/about_us/whybizzcon"><p><a  style="color: #ffff" href="/about_us/whybizzcon">ABOUT US</a></p></a>
           <a href="/jobs/post"><p><a style="color: #ffff" href="/jobs/post">JOBS</a></p></a>
           <a href="/industries"><p><a style="color: #ffff" href="/industries">INDUSTRY</a></p></a>
           <a href="/contact_us"><p><a style="color: #ffff" href="/contact_us">CONTACT US</a></p></a>
