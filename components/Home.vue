@@ -6,12 +6,12 @@
       <div class="about_us">
         <h3>About Us</h3>
         <p>Business consulting (Bizzcon) aims to serve as trusted advisers to our valued clients, partnering with them in making their most important decisions.</p>
-        <NuxtLink to="/about_us"><button href>LEARN MORE</button></NuxtLink>
+        <a href="/about_us/whybizzcon"><button href>LEARN MORE</button></a>
       </div>
       <div class="services">
         <h3>Services</h3>
         <p>We provide a range of talent acquisition services by leveraging our domain knowledge.</p>
-        <NuxtLink to="/services"><button href>LEARN MORE</button></NuxtLink>
+        <a href="/services"><button href>LEARN MORE</button></a>
       </div>
     </div>
   </div>
@@ -47,7 +47,7 @@
         </div>
         <br>
         <br>
-        <NuxtLink to="/industries"><button href="/industries">LEARN MORE</button></NuxtLink>
+        <a href="/industries"><button href="/industries">LEARN MORE</button></a>
         <br>
         
       </div>

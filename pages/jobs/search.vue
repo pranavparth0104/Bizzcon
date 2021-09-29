@@ -37,7 +37,7 @@ researcher, consultant, Practice Leader to Partner. Please write to us at : <a>s
      </p>
   </div>
       <div class="wrapper">
-        <NuxtLink to="/jobs/post"><button href="/jobs/post">Submit your CV</button></NuxtLink>
+        <a href="/jobs/post"><button href="/jobs/post">Submit your CV</button></a>
       </div>
   </div>
 </template>

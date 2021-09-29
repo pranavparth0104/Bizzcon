@@ -5,7 +5,8 @@
         <li class="nav-item"><a href="/about_us/leaders">Leaders</a></li>
         <li class="nav-item"><a href="/services">Services</a></li>
         <li class="nav-item"><a href="/industries">Industrial Practices</a></li>
-        <li class="nav-item"><a href="/jobs/search">Jobs</a></li>
+        <li class="nav-item"><a href="/jobs/search">Jobs Search</a></li>
+        <li class="nav-item"><a href="/jobs/post"> Post Jobs</a></li>
         <li class="nav-item"><a href="/insights">Insights</a></li>
         <li class="nav-item"><a href="/contact_us">Contact</a></li>
         <li class="nav-item"><a href="/login">Emp. Log</a></li>
@@ -28,7 +29,7 @@
     .nav-item a:active{
         color: #b4b4b4;
     }
-    @media (max-width: 767px) {
+    @media (max-width: 1250px) {
         .nav-list {
             display: block;
         }
@@ -37,7 +38,7 @@
             margin-bottom: 16px;
         }
     }
-    @media (min-width: 768px) {
+    @media (min-width: 1250px) {
         .nav-list {
             display: flex;
         }

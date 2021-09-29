@@ -3,7 +3,10 @@
     <header>
 
         <div class="brand-name">
-            <nuxt-link to="/"><img :src="require(`@/assets/logo.png`)" alt="" /></nuxt-link>
+          <a href="/">
+            <img :src="require(`@/assets/logo.png`)" href="/" alt="" />
+          </a>
+            
         </div>
 
         <div class="drawer-toggle" role="button" @click="$store.dispatch('nav/toggleSidebar')">
@@ -59,7 +62,7 @@ export default {
         padding-right: 16px;
         cursor: pointer;
     }
-    @media (max-width: 767px) {
+    @media (max-width: 1250px) {
         header{
             padding: 0 16px;
         }
@@ -70,7 +73,7 @@ export default {
             display: none;
         }
     }
-    @media (min-width: 768px) {
+    @media (min-width: 1250px) {
         header{
             padding: 0 64px;
         }

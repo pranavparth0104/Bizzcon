@@ -8,119 +8,119 @@
         <p>Bizzcon has developed expertise in the following industry segments:</p>
       </div>
       <div class="ind">
-        <NuxtLink to="/industries/automotive">
+        <a href="/industries/automotive">
         <div class="data">
           
           <h4>Automotive Industry</h4>
           
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/aerospace">
+        </a>
+        <a href="/industries/aerospace">
 
         <div class="data">
           <h4>Aerospace and Defence</h4>
         </div>  
-        </NuxtLink>
-        <NuxtLink to="/industries/banking">  
+        </a>
+        <a href="/industries/banking">  
         <div class="data">
           <h4>Banking</h4>
         </div> 
-        </NuxtLink>
-        <NuxtLink to="/industries/corporate_banking">   
+        </a>
+        <a href="/industries/corporate_banking">   
         <div class="data">
           <h4>Corporate & Investment Banking</h4>
         </div> 
-        </NuxtLink>
-        <NuxtLink to="/industries/consumer">
+        </a>
+        <a href="/industries/consumer">
         <div class="data">
           <h4>Consumer Products</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/finance">
+        </a>
+        <a href="/industries/finance">
         <div class="data">
           <h4>Financial Service</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/fmcg">
+        </a>
+        <a href="/industries/fmcg">
         <div class="data">
           <h4>FMCG</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/gov_sec">
+        </a>
+        <a href="/industries/gov_sec">
         <div class="data">
           <h4>Government (Public Sector)</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/health">
+        </a>
+        <a href="/industries/health">
         <div class="data">
           <h4>Healthcare</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/high_tech">
+        </a>
+        <a href="/industries/high_tech">
         <div class="data">
           <h4>High Tech & Semiconductors</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/infrastructure">
+        </a>
+        <a href="/industries/infrastructure">
         <div class="data">
           <h4>Infrastructure</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/insurance">
+        </a>
+        <a href="/industries/insurance">
         <div class="data">
           <h4>Insurance</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/pharma">
+        </a>
+        <a href="/industries/pharma">
         <div class="data">
           <h4>Lifesciences & Pharma</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/media">
+        </a>
+        <a href="/industries/media">
         <div class="data">
           <h4>Media & Entertainment</h4>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/industries/oil">
+        </a>
+        <a href="/industries/oil">
         <div class="data">
           <h4>Oil & Gas</h4>
        </div>
-       </NuxtLink>
-       <NuxtLink to="/industries/outsourcing">
+       </a>
+       <a href="/industries/outsourcing">
         <div class="data">
           <h4>Outsourcing and Offshoring</h4>
         </div> 
-        </NuxtLink>
-        <NuxtLink to="/industries/pro_service">
+        </a>
+        <a href="/industries/pro_service">
         <div class="data">
           <h4>Professional Services</h4>
         </div> 
-        </NuxtLink>
-        <NuxtLink to="/industries/software">
+        </a>
+        <a href="/industries/software">
          <div class="data">
           <h4>Software & IT platforms</h4>
         </div> 
-        </NuxtLink>
-        <NuxtLink to="/industries/services">
+        </a>
+        <a href="/industries/services">
         <div class="data">
           <h4>Services</h4>
         </div>
-        </NuxtLink> 
-        <NuxtLink to="/industries/tech">
+        </a> 
+        <a href="/industries/tech">
         <div class="data">
           <h4>Technology</h4>
         </div>
-        </NuxtLink> 
-        <NuxtLink to="/industries/tele">
+        </a> 
+        <a href="/industries/tele">
         <div class="data">
           <h4>Telecommunications</h4>
         </div> 
-        </NuxtLink>
-        <NuxtLink to="/industries/telecom">
+        </a>
+        <a href="/industries/telecom">
         <div class="data">
           <h4>Telecom</h4>
         </div> 
-        </NuxtLink>
+        </a>
       </div>
      
 </div>

@@ -40,7 +40,7 @@ export default {
   font-family: 'Poppins', sans-serif;
 }
 .body{
-  background: rgba(255,181,17,255);
+  background: rgb(252,140,20);
   display: flex;
   width: 100%;
 justify-content: space-around;  /* background: linear-gradient(-135deg, #c850c0, #4158d0); */
@@ -66,7 +66,7 @@ justify-content: space-around;  /* background: linear-gradient(-135deg, #c850c0,
   color: #fff;
   user-select: none;
   border-radius: 15px 15px 0 0;
-  background: rgb(252,140,20);
+  background: rgba(255,181,17,255);
 }
 .wrapper form{
   padding: 10px 30px 50px 30px;

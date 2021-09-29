@@ -11,18 +11,18 @@
         <hr class="w-100 clearfix d-md-none" />
         <mdb-col md="2" lg="2" xl="2" class="mx-auto mt-3">
           <h6 style="color: #ffff" class="text-uppercase mb-4 font-weight-bold">BIZZCON</h6>
-          <NuxtLink to="/about_us"><p><a  style="color: #ffff" href="/about_us">ABOUT US</a></p></NuxtLink>
-          <NuxtLink to="/jobs/post"><p><a style="color: #ffff" href="/jobs/post">JOBS</a></p></NuxtLink>
-          <NuxtLink to="/industries"><p><a style="color: #ffff" href="/industries">INDUSTRY</a></p></NuxtLink>
-          <NuxtLink to="/contact_us"><p><a style="color: #ffff" href="/contact_us">CONTACT US</a></p></NuxtLink>
+          <a href="/about_us"><p><a  style="color: #ffff" href="/about_us/whybizzcon">ABOUT US</a></p></a>
+          <a href="/jobs/post"><p><a style="color: #ffff" href="/jobs/post">JOBS</a></p></a>
+          <a href="/industries"><p><a style="color: #ffff" href="/industries">INDUSTRY</a></p></a>
+          <a href="/contact_us"><p><a style="color: #ffff" href="/contact_us">CONTACT US</a></p></a>
         </mdb-col>
         <hr class="w-100 clearfix d-md-none" />
         <mdb-col md="3" lg="2" xl="2" class="mx-auto mt-3">
           <h6 style="color: #ffff" class="text-uppercase mb-4 font-weight-bold">About</h6>
-          <NuxtLink to="/about_us/life"><p><a style="color: #ffff" href="/about_us/life">LIFE</a></p></NuxtLink>
-          <NuxtLink to="/about_us/leaders"><p><a style="color: #ffff" href="/about_us/leaders">LEADERS</a></p></NuxtLink>
-          <NuxtLink to="/about_us/board"><p><a style="color: #ffff" href="/about_us/board">BOARD </a></p></NuxtLink>
-          <NuxtLink to="/about_us/whybizzcon"><p><a style="color: #ffff" href="/about_us/whybizzcon">WHY BIZZCON</a></p></NuxtLink>
+          <a href="/about_us/leaders"><p><a style="color: #ffff" href="/about_us/leaders">LEADERS</a></p></a>
+          <a href="/about_us/life"><p><a style="color: #ffff" href="/services">SERVICES</a></p></a>
+          <a href="/about_us/board"><p><a style="color: #ffff" href="/insights">INSIGHTS</a></p></a>
+          <a href="/about_us/whybizzcon"><p><a style="color: #ffff" href="/login">EMP LOGIN</a></p></a>
         </mdb-col>
         <hr class="w-100 clearfix d-md-none" />
         <mdb-col md="4" lg="3" xl="3" class="mx-auto mt-3">

@@ -10,15 +10,15 @@
       </div>
 
       <div class="con">
-        <NuxtLink to="/services/exe_search">
+        <a href="/services/exe_search">
         <div class="services">
           <img :src="require(`@/assets/service/search.png`)" alt="">
           <div class="data">
             <h4>Executive Search</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/senior_middle">
+        </a>
+        <a href="/services/senior_middle">
 
         <div class="services">
           <img :src="require(`@/assets/service/senior.png`)" alt="">
@@ -26,79 +26,79 @@
             <h4>Senior & Middle Level Hiring</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/rpo">
+        </a>
+        <a href="/services/rpo">
         <div class="services">
           <img :src="require(`@/assets/service/rpo.png`)" alt="">
           <div class="data">
             <h4>Recruitment Process Outsourcing</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/global_cov">
+        </a>
+        <a href="/services/global_cov">
         <div class="services">
           <img :src="require(`@/assets/service/coverage.png`)" alt="">
           <div class="data">
             <h4>Global Coverage</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/global-source">
+        </a>
+        <a href="/services/global-source">
         <div class="services">
           <img :src="require(`@/assets/service/global_source.png`)" alt="">
           <div class="data">
             <h4>Global Sourcing</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/inter_capacity">
+        </a>
+        <a href="/services/inter_capacity">
         <div class="services">
           <img :src="require(`@/assets/service/intern.png`)" alt="">
           <div class="data">
             <h4>International/Cross-Border Capacity</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/industry">
+        </a>
+        <a href="/services/industry">
         <div class="services">
           <img :src="require(`@/assets/service/industry.png`)" alt="">
           <div class="data">
             <h4>Industry Specialization</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/deep_local">
+        </a>
+        <a href="/services/deep_local">
         <div class="services">
           <img :src="require(`@/assets/service/deep.png`)" alt="">
           <div class="data">
             <h4>Deep Local Knowledge</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/career_trans">
+        </a>
+        <a href="/services/career_trans">
         <div class="services">
           <img :src="require(`@/assets/service/career.png`)" alt="">
           <div class="data">
             <h4>Career Transition Services</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/market_intel">
+        </a>
+        <a href="/services/market_intel">
         <div class="services">
           <img :src="require(`@/assets/service/market.png`)" alt="">
           <div class="data">
             <h4>Market Intelligence</h4>
           </div>
         </div>
-        </NuxtLink>
-        <NuxtLink to="/services/recruiter_program">
+        </a>
+        <a href="/services/recruiter_program">
         <div class="services">
           <img :src="require(`@/assets/icons/recruit.png`)" alt="">
           <div class="data">
             <h4>Recruiter Training Programmes</h4>
           </div>
         </div>
-        </NuxtLink>
+        </a>
         
         
 
