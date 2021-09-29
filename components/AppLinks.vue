@@ -1,7 +1,7 @@
 <template>
     <ul class="nav-list">
-        <li class="nav-item"><nuxt-link to="/"><a href="/">Home</a></nuxt-link></li>
-        <li class="nav-item"><nuxt-link to="/about_us/whybizzcon">About</nuxt-link></li>
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/about_us/whybizzcon">About</a></li>
         <li class="nav-item"><nuxt-link to="/about_us/leaders">Leaders</nuxt-link></li>
         <li class="nav-item"><nuxt-link to="/services">Services</nuxt-link></li>
         <li class="nav-item"><nuxt-link to="/industries">Industrial Practices</nuxt-link></li>
