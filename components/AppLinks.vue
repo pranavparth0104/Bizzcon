@@ -2,17 +2,15 @@
     <ul class="nav-list">
         <li class="nav-item"><a href="/">Home</a></li>
         <li class="nav-item"><a href="/about_us/whybizzcon">About</a></li>
-        <li class="nav-item"><nuxt-link to="/about_us/leaders">Leaders</nuxt-link></li>
-        <li class="nav-item"><nuxt-link to="/services">Services</nuxt-link></li>
-        <li class="nav-item"><nuxt-link to="/industries">Industrial Practices</nuxt-link></li>
-        <li class="nav-item"><nuxt-link to="/jobs/search">Jobs</nuxt-link></li>
-        <li class="nav-item"><nuxt-link to="/insights">Insights</nuxt-link></li>
-        <li class="nav-item"><nuxt-link to="/contact_us">Contact</nuxt-link></li>
-        <li class="nav-item"><nuxt-link to="/login">Emp. Login</nuxt-link></li>
-
-    </ul>
+        <li class="nav-item"><a href="/about_us/leaders">Leaders</a></li>
+        <li class="nav-item"><a href="/services">Services</a></li>
+        <li class="nav-item"><a href="/industries">Industrial Practices</a></li>
+        <li class="nav-item"><a href="/jobs/search">Jobs</a></li>
+        <li class="nav-item"><a href="/insights">Insights</a></li>
+        <li class="nav-item"><a href="/contact_us">Contact</a></li>
+        <li class="nav-item"><a href="/login">Emp. Log</a></li>
+ </ul>
 </template>
-
 <style scoped>
     .nav-list {
         list-style: none;
