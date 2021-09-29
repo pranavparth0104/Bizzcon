@@ -150,7 +150,7 @@ export default {
   display: flex;
   padding: 20px;
   margin: 10px;
-
+  justify-content: space-around;
   flex-wrap: wrap;
   flex-direction: row;
 }
@@ -186,5 +186,9 @@ img{
       margin-left: 0;
     }
 }
-
+@media screen and (max-width: 700px) {
+.con{
+  justify-content: initial;
+}
+}
 </style>

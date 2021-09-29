@@ -4,7 +4,7 @@
 
         <div class="brand-name">
           <a href="/">
-            <img :src="require(`@/assets/logo.png`)" href="/" alt="" />
+            <img :src="require(`@/assets/bizzcon1.png`)" href="/" alt="" />
           </a>
             
         </div>
@@ -34,7 +34,7 @@ export default {
         display: grid;
         grid-template: 60px / auto 1fr;
         align-items: center;
-        background-color: rgba(255,181,17,255);
+        background-color: white;
     }
     .app-links{
         justify-self: end;
@@ -45,12 +45,12 @@ export default {
     }
     .brand-name a {
         text-decoration: none;
-        color: white;
+        color:  rgba(255,181,17,255);
     }
     .drawer-toggle .bar {
         width: 90%;
         height: 2px;
-        background-color: white;
+        background-color: rgba(255,181,17,255);
     }
     .drawer-toggle {
         display: flex;

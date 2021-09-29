@@ -2,11 +2,11 @@
     <ul class="nav-list">
         <li class="nav-item"><a href="/">Home</a></li>
         <li class="nav-item"><a href="/about_us/whybizzcon">About</a></li>
-        <li class="nav-item"><a href="/about_us/leaders">Leaders</a></li>
+        <li class="nav-item"><a href="/about_us/leaders">Our Team</a></li>
         <li class="nav-item"><a href="/services">Services</a></li>
         <li class="nav-item"><a href="/industries">Industrial Practices</a></li>
-        <li class="nav-item"><a href="/jobs/search">Jobs Search</a></li>
-        <li class="nav-item"><a href="/jobs/post"> Post Jobs</a></li>
+        <li class="nav-item"><a href="/jobs/search">Find Talent</a></li>
+        <li class="nav-item"><a href="/jobs/post"> Find a Job</a></li>
         <li class="nav-item"><a href="/insights">Insights</a></li>
         <li class="nav-item"><a href="/contact_us">Contact</a></li>
         <li class="nav-item"><a href="/login">Emp. Log</a></li>
@@ -22,8 +22,9 @@
         margin: 0 10px;
     }
     .nav-item a {
+        
         text-decoration: none;
-        color: #fefefe;
+        color: rgba(255,181,17,255);
     }
     .nav-item a:hover,
     .nav-item a:active{

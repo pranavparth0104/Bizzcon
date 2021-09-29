@@ -1,11 +1,11 @@
 <template>
 <div>
   <div class="intro">
-    <You />
+    <img class="img12" :src="require(`@/assets/images/home1.jpg`)" alt="">
     <div class="intro_cont">
       <div class="about_us">
         <h3>About Us</h3>
-        <p>Business consulting (Bizzcon) aims to serve as trusted advisers to our valued clients, partnering with them in making their most important decisions.</p>
+        <p>Business Solutions (Bizzcon) aims to serve as trusted advisers to our valued clients, partnering with them in making their most important decisions.</p>
         <a href="/about_us/whybizzcon"><button href>LEARN MORE</button></a>
       </div>
       <div class="services">
@@ -38,10 +38,11 @@
 
   </div>  
     <div class="image">
-      <img :src="require(`@/assets/img.jpg`)" alt="">
+      <img :src="require(`@/assets/images/ind.jpg`)" alt="">
       <div class="ind">
         <h2>Industry Practices</h2>
         <p>In order to provide clients with specialised recruiting solutions, Bizzcon has developed expertise in the following industry segments:</p>
+        <br>
         <div class="slider">
           <img class="indu" style="width:20%" :src="require(`@/assets/service/industry.png`)" alt="">
         </div>
@@ -51,6 +52,26 @@
         <br>
         
       </div>
+    </div>
+    <div class="image">
+      
+      <div class="ind1">
+        <h2>Services</h2>
+        
+        <p>We offer a wide range of customized, high-quality, research-based talent consulting services.</p>
+        <br>
+        <div class="slider">
+          <img class="indu" style="width:20%" :src="require(`@/assets/service/search.png`)" alt="">
+        </div>
+       <br>
+        <a href="/services"><button href="/services">LEARN MORE</button></a>
+        <br>
+        
+      </div>
+      <br>
+      <br>
+
+      <img :src="require(`@/assets/images/services.jpg`)" alt="">
     </div>
     <!-- <div class="testimonials">
       <h2>Client Testimonials</h2>
@@ -121,13 +142,14 @@ export default {
 .intro{
   display: flex;
   flex-direction: row;
+  height: 100%;
 }
 
 .about_us{
   background: rgba(255,181,17,255);
   text-align: center;
   color: black;
-  padding: 20px;
+  padding: 25px;
 }
 .about_us p{
       font-size: 17px;
@@ -141,6 +163,11 @@ export default {
   border-radius: 5px;
 
   background: black;
+}
+
+.img12{
+  width: 40%;
+  height: 420px;
 }
 .indu{
   width: 20px;
@@ -161,10 +188,11 @@ export default {
 .intro_cont{
   display: flex;
   flex-direction: column;
+  height: 100%;
 }
 
 .services{
-  background: rgb(252,140,20);
+  background: white;
   text-align: center;
   color: black;
   padding: 20px;
@@ -208,9 +236,18 @@ export default {
 
 .ind{
   text-align: center;
-  padding: 10px;
+  padding: 20px;
 
-  background: rgb(252,140,20);
+  background: white;
+  color: black;
+}
+
+.ind1{
+  text-align: center;
+  padding: 30px;
+  width: 100%;
+  background: rgba(255,181,17,255);
+  color: black;
 }
 
 .contact_us{
@@ -222,7 +259,7 @@ export default {
    text-align: center;
   padding: 10px;
 
-  background: rgba(255,181,17,255);
+  background: white;
   margin-bottom: 0px;
 }
 
@@ -239,11 +276,9 @@ export default {
   width: 100%;
 }
 .add h4{
-  font-style: oblique;
 }
 .contact h2{
   font-size: 45px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .testimonials{
   text-align: center;
@@ -273,16 +308,21 @@ export default {
 
 }
 .ind h2{
-  font-style: italic;
-  font-size: 40px ;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px ;
 
 
 }
 
+.ind1 h2{
+    font-size: 30px ;
 
+}
 .ind p{
-  font-size: 25px;
+font-size: 17px;}
+
+.ind1 p{
+  font-size: 17px;
+
 }
 .one{
   display: flex;
@@ -320,7 +360,9 @@ flex-direction: row;
 .contact_us{
   flex-direction: column;
 }
-  
+  .img12{
+  width: 100%;
+  }
 }
 
 @media screen and (max-width: 900px) {
@@ -334,6 +376,11 @@ flex-direction: row;
 @media screen and (max-width: 1000px) {
 .ind p{
   font-size: 15px;
+}
+
+.ind1 p{
+    font-size: 15px;
+
 }
 }
 </style>

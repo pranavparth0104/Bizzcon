@@ -24,13 +24,23 @@
         <div class="flip-card">
           <div class="flip-card-inner">
             <div class="flip-card-front">
-              <h3>50+</h3>
-              <h4>Years of Market leadership</h4>
+              <h4>DEDICATED RECRUITER</h4>
             </div>
             <div class="flip-card-back">
-              <h4>Market leader for over four decades</h4>
-              <p>• Pioneer of organised recruitment in India</p>
-              <p>• Unparalleled network and understanding of the Indian Market</p>
+              <h4>Are you in growth mode and need recruiting support?</h4>
+             </div>
+          </div>
+        </div>
+      </div>
+      <div class="cards">
+        <div class="flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front">
+              <h4>MAKING A STRATEGIC HIRE</h4>
+            </div>
+            <div class="flip-card-back">
+              <h4>Are you seeking a trusted partner to find, attract, and hire a senior leader?</h4>
+
             </div>
           </div>
         </div>
@@ -39,13 +49,12 @@
         <div class="flip-card">
           <div class="flip-card-inner">
             <div class="flip-card-front">
-              <h3>50+</h3>
-              <h4>Years of Market leadership</h4>
+              <h4>TALENT ACQUISITION CONSULTING
+</h4>
             </div>
             <div class="flip-card-back">
-              <h4>Market leader for over four decades</h4>
-              <p>• Pioneer of organised recruitment in India</p>
-              <p>• Unparalleled network and understanding of the Indian Market</p>
+              <h4>Are your recruitment efforts falling short and you want support?</h4>
+
             </div>
           </div>
         </div>
@@ -54,28 +63,11 @@
         <div class="flip-card">
           <div class="flip-card-inner">
             <div class="flip-card-front">
-              <h3>50+</h3>
-              <h4>Years of Market leadership</h4>
+              <h4>QUALITY</h4>
             </div>
             <div class="flip-card-back">
-              <h4>Market leader for over four decades</h4>
-              <p>• Pioneer of organised recruitment in India</p>
-              <p>• Unparalleled network and understanding of the Indian Market</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="cards">
-        <div class="flip-card">
-          <div class="flip-card-inner">
-            <div class="flip-card-front">
-              <h3>50+</h3>
-              <h4>Years of Market leadership</h4>
-            </div>
-            <div class="flip-card-back">
-              <h4>Market leader for over four decades</h4>
-              <p>• Pioneer of organised recruitment in India</p>
-              <p>• Unparalleled network and understanding of the Indian Market</p>
+              <h4>Are you looking for quality resource for your requirement?</h4>
+
             </div>
           </div>
         </div>

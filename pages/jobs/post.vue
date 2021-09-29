@@ -5,16 +5,50 @@
         <div class="view"></div>
       </div>
        <div class="info">
-          <p>
+         <p>
         You may be a senior executive with diverse experience, understand changing talent
         landscape with ability for business development and networking with senior professionals or
         you may be already an executive search professional, with a specialist area of expertise.          </p>
         <br>
+         <p>Only a select few mandates being handled by us are posted on our website and other online platforms. A vast majority of jobs aren’t in the public domain. Be a part of our searchable centralized database by sending us your details.</p>
+         <br>
+         <h5>
+            Mid and Senior level Professionals
+          </h5>
+      <p>
+          If you are an experienced leader in the bracket of 5-10 or over 10+ years of experience
+seeking a new opportunity, or seeking support in career transition, please feel free to submit
+your resume to – <a>solutionsbizzcon@gmail.com</a>
+      </p>
+      <br>
+      <p>
+        Many senior professionals today seek support of an executive coach to craft career strategy
+to support them in their development plans and manage change.
+      </p>
+     <br>
+     <p>
+       You may also wish to visit our website in detail to learn about our personalized Career
+Coaching & transition services. Our range of services includes Leadership Development,
+career planning, On-boarding, Career/ Role Transition and Succession planning
+     </p>
+     <br>
+     <h5>
+       Join BCS
+     </h5>
+     <p>
+       If you are looking for challenging opportunities in Executive Search or Organizational /
+Leadership consulting as a partner, we offers exciting opportunities across all levels from
+researcher, consultant, Practice Leader to Partner. Please write to us at : <a>solutionsbizzcon@gmail.com</a>
+     </p>
+          
         <p>
           Submit your CV through below form:
         </p>
        </div>
-      <div class="form">
+       <div class="forms">
+         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfK6Dm_hZi44dQyD9i1xu7XjDUOB6J7ytql_CYeTBweqQVe7w/viewform?embedded=true" width="100%" height="2536" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+       </div>
+      <!-- <div class="form">
         <p>(*) All fields are mandatory</p>
         <form action="">
           <input type="text" placeholder="First Name* " required>
@@ -53,7 +87,7 @@
             <button>submit</button>
           </div>
         </form>
-      </div>
+      </div> -->
       
   </div>
 </template>

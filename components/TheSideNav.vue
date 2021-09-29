@@ -40,7 +40,7 @@
     .sidenav {
         height: 100%;
         width: 300px;
-        background-color: rgba(255,181,17,255);
+        background-color: white;
         z-index: 10000;
         position: fixed;
         top: 0;

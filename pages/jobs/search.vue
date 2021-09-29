@@ -1,43 +1,16 @@
 <template>
   <div class="con">
       <div class="all">
-        <h3>Find the Perfect Job
+        <h3>Find Talent
 </h3>
-        <p>Only a select few mandates being handled by us are posted on our website and other online platforms. A vast majority of jobs aren’t in the public domain. Be a part of our searchable centralized database by sending us your details.</p>
+        
         <div class="view"></div>
       </div>
       <div class="info">
-          <h5>
-            Mid and Senior level Professionals
-          </h5>
-      <p>
-          If you are an experienced leader in the bracket of 5-10 or over 10+ years of experience
-seeking a new opportunity, or seeking support in career transition, please feel free to submit
-your resume to – <a>solutionsbizzcon@gmail.com</a>
-      </p>
-      <br>
-      <p>
-        Many senior professionals today seek support of an executive coach to craft career strategy
-to support them in their development plans and manage change.
-      </p>
-     <br>
-     <p>
-       You may also wish to visit our website in detail to learn about our personalized Career
-Coaching & transition services. Our range of services includes Leadership Development,
-career planning, On-boarding, Career/ Role Transition and Succession planning
-     </p>
-     <br>
-     <h5>
-       Join BCS
-     </h5>
-     <p>
-       If you are looking for challenging opportunities in Executive Search or Organizational /
-Leadership consulting as a partner, we offers exciting opportunities across all levels from
-researcher, consultant, Practice Leader to Partner. Please write to us at : <a>solutionsbizzcon@gmail.com</a>
-     </p>
+          
   </div>
       <div class="wrapper">
-        <a href="/jobs/post"><button href="/jobs/post">Submit your CV</button></a>
+       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqSIzs2zQZkBAvrWXo6BYdDgH3RtI7jJVdC81G-7GEH5TVkA/viewform?embedded=true" width="100%" height="1114" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
       </div>
   </div>
 </template>
@@ -74,15 +47,9 @@ export default {
 }
 .wrapper{
   padding: 20px;
+  width: 100%;
 }
-.wrapper button{
-  border: none;
-  padding: 10px;
-  color: black;
-  border-radius: 5px;
 
-  background: rgb(252,140,20);
-}
 .info{
   padding: 20px;
   text-align: center;
