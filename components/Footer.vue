@@ -22,13 +22,16 @@
           <a href="/about_us/leaders"><p><a style="color: #ffff" href="/about_us/leaders">LEADERS</a></p></a>
           <a href="/about_us/life"><p><a style="color: #ffff" href="/services">SERVICES</a></p></a>
           <a href="/about_us/board"><p><a style="color: #ffff" href="/insights">INSIGHTS</a></p></a>
-          <a href="/about_us/whybizzcon"><p><a style="color: #ffff" href="/login">EMP LOGIN</a></p></a>
         </mdb-col>
         <hr class="w-100 clearfix d-md-none" />
         <mdb-col md="4" lg="3" xl="3" class="mx-auto mt-3">
           <h6 style="color: #ffff" class="text-uppercase mb-4 font-weight-bold">Contact Us</h6>
-          <p style="color: #ffff"><i class="fas fa-home mr-3"></i> Bengaluru, KA, IND</p>
-          <p style="color: #ffff"><i class="fas fa-envelope mr-3"></i>solutionsbizzcon@gmail.com</p>
+          <p style="color: #ffff"><i class="fas fa-home mr-3"></i> BENGALURU</p>
+          <p style="color: #ffff"><i class="fas fa-envelope mr-3"></i>BIzzcon Solutions Pvt. Ltd.</p>
+                    <p style="color: #ffff"><i class="fas fa-envelope mr-3"></i>OMBR Layout </p>
+          <p style="color: #ffff"><i class="fas fa-envelope mr-3"></i> Kalyan Nagar, Bengaluru 560043
+Karnataka</p>
+
           <!-- <p style="color: #ffff"><i class="fas fa-phone mr-3"></i> +91 11 4934 3900</p>
           <p style="color: #ffff"><i class="fas fa-print mr-3"></i> +91 11 4934 3900</p> -->
         </mdb-col>
