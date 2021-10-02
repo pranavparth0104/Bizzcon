@@ -8,8 +8,8 @@
         <li class="nav-item"><a href="/jobs/search">Find Talent</a></li>
         <li class="nav-item"><a href="/jobs/post"> Find a Job</a></li>
         <li class="nav-item"><a href="/insights">Insights</a></li>
-        <li class="nav-item"><a href="/contact_us">Contact</a></li>
-        <li class="nav-item"><a href="/login">Emp. Log</a></li>
+        <li class="nav-item"><a href="/contact_us">Contact Us</a></li>
+        <!-- <li class="nav-item"><a href="/login">Emp. Log</a></li> -->
  </ul>
 </template>
 <style scoped>

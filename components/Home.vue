@@ -91,11 +91,24 @@
           <h4>Corporate Office :</h4>
           <br>
           <br>
-          <h4>NEW DELHI</h4>
+          <h4>NOIDA</h4>
+          <h5>
+            BIzzcon Solutions Pvt. Ltd.</h5>
+            <h5>
+SD-114, Sector 45 , Noida Gautam Budh Nagar , UP - 201301
+          </h5>
           <br><br>
           <h4>
             BENGALURU
           </h4>
+          <h5>BIzzcon Solutions Pvt. Ltd.</h5>
+          <h5>
+            OMBR Layout 
+          </h5>
+          <h5>
+            Kalyan Nagar, Bengaluru 560043
+Karnataka
+          </h5>
           <br><br>
           <!-- <h6>1st Floor, Eros Corporate Tower</h6>
           <h6>Nehru Place</h6>
