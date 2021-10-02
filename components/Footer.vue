@@ -6,7 +6,7 @@
       <mdb-row class="text-center text-md-left mt-3 pb-3">
         <mdb-col md="3" lg="3" xl="3" class="mx-auto mt-3">
           <h6 style="color: #ffff" class="text-uppercase mb-4 font-weight-bold">Bizzcon</h6>
-          <p style="color: #ffff">Business consulting (Bizzcon) aims to serve as trusted advisers to our valued clients, partnering with them in making their most important decisions.</p>
+          <p style="color: #ffff">Bizzcon solutions aims to serve as trusted advisers to our valued clients, partnering with them in making their most important decisions.</p>
         </mdb-col>
         <hr class="w-100 clearfix d-md-none" />
         <mdb-col md="2" lg="2" xl="2" class="mx-auto mt-3">

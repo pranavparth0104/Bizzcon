@@ -5,7 +5,7 @@
     <div class="intro_cont">
       <div class="about_us">
         <h3>About Us</h3>
-        <p>Business Solutions (Bizzcon) aims to serve as trusted advisers to our valued clients, partnering with them in making their most important decisions.</p>
+        <p>Bizzcon solutions aims to serve as trusted advisers to our valued clients, partnering with them in making their most important decisions.</p>
         <a href="/about_us/whybizzcon"><button href>LEARN MORE</button></a>
       </div>
       <div class="services">

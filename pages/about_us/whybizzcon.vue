@@ -1,7 +1,7 @@
 <template>
   <div class="contain">
     <div class="all">
-          <h2>Why Bizzcoin</h2>
+          <h2>Why Bizzcon</h2>
           <p>“Bizzcon Solutions (BCS) where “Bizzcon” stands for Business consulting aims to serve as trusted advisers to our valued clients, partnering with them in making their most important decisions – planning, recruiting, selecting, and retaining superior talent. We are more than just head-hunters; we pride ourselves on the close involvement of our consultants in each search mandate.</p>
           <div class="view"></div>
     </div>
