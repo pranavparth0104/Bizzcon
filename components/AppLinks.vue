@@ -2,7 +2,7 @@
     <ul class="nav-list">
         <li class="nav-item"><a href="/">Home</a></li>
         <li class="nav-item"><a href="/about_us/whybizzcon">About</a></li>
-        <li class="nav-item"><a href="/about_us/leaders">Our Team</a></li>
+        <!-- <li class="nav-item"><a href="/about_us/leaders">Our Team</a></li> -->
         <li class="nav-item"><a href="/services">Services</a></li>
         <li class="nav-item"><a href="/industries">Industrial Practices</a></li>
         <li class="nav-item"><a href="/jobs/search">Find Talent</a></li>

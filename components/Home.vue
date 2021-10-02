@@ -19,20 +19,20 @@
     <h3>Creating Impact</h3>
     <div class="impact">
       <div class="one">
-        <h1>50+</h1>
-        <p>Years of market leadership</p>
+        <h1>30%</h1>
+        <p>less cost than traditional HR companies</p>
       </div>
       <div class="one">
-        <h1>165k</h1>
-        <p>Careers made till date</p>
+        <h1>3-4</h1>
+        <p>weeks of Turnaround time targeted</p>
       </div>
       <div class="one">
-        <h1>465+</h1>
-        <p>Consultants</p>
+        <h1>20+</h1>
+        <p>Countries connect </p>
       </div>
       <div class="one">
-        <h1>25</h1>
-        <p>Industries Covered</p>
+        <h1>22</h1>
+        <p>Industries</p>
       </div>
     </div>
 
